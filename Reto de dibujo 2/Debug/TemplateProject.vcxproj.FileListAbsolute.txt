@@ -1,0 +1,6 @@
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\OGL\tarea\Debug\TemplateProject.exe
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\OGL\tarea\Debug\TemplateProject.pdb
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\OGL\Reto de dibujo 2\Debug\TemplateProject.exe
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\OGL\Reto de dibujo 2\Debug\TemplateProject.pdb
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 2\Debug\TemplateProject.exe
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 2\Debug\TemplateProject.pdb
