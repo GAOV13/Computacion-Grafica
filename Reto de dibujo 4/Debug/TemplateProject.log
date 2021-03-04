@@ -1,0 +1,6 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Arbol.cpp
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 4\Arbol.cpp(19,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 4\Arbol.cpp(30,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 4\Arbol.cpp(55,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  TemplateProject.vcxproj -> C:\Users\guidi\Documents\Universidad\5 semestre\Computación grafica\Codigo OGL\Reto de dibujo 4\Debug\TemplateProject.exe
